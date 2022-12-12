@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652210022 source:c:\dea\uni\progra\tda\pila\pilaestatica\pilae.c
+	"..\pila.h"
+
+1652209965 c:\dea\uni\progra\tda\pila\pila.h
+	"..\..\libs\common\common.h"
+	<string.h>
+
+1651609977 c:\dea\uni\progra\libs\common\common.h
+	<stdio.h>
+

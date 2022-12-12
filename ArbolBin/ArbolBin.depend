@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1656445199 source:c:\dea\uni\progra\tda\arbolbin\arbol.c
+	"arbol.h"
+
+1656445260 c:\dea\uni\progra\tda\arbolbin\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../libs/common/common.h"
+
+1655950284 source:e:\progra\tda\arbolbin\arbol.c
+	"arbol.h"
+
+1655950168 e:\progra\tda\arbolbin\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1654501506 c:\dea\uni\progra\libs\common\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

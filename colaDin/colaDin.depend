@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1653875887 source:c:\dea\uni\progra\tda\coladin\coladin.c
+	"colaDin.h"
+
+1653874168 c:\dea\uni\progra\tda\coladin\coladin.h
+	"..\..\libs\common\common.h"
+	<string.h>
+	<stdlib.h>
+
+1651609977 c:\dea\uni\progra\libs\common\common.h
+	<stdio.h>
+

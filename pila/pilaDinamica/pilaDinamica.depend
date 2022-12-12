@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652248645 source:c:\dea\uni\progra\tda\pila\piladinamica\piladinamica.c
+	"pilaDinamica.h"
+
+1652248690 c:\dea\uni\progra\tda\pila\piladinamica\piladinamica.h
+	"..\..\..\libs\common\common.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1651609977 c:\dea\uni\progra\libs\common\common.h
+	<stdio.h>
+

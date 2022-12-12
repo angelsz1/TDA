@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654497838 source:c:\dea\uni\progra\tda\lista\lista.c
+	"lista.h"
+
+1654497860 c:\dea\uni\progra\tda\lista\lista.h
+	"..\..\libs\common\common.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1654031407 c:\dea\uni\progra\libs\common\common.h
+	<stdio.h>
+
