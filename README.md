@@ -1,2 +1,2 @@
 # TDA
-Desarrollo de Tipos de Datos Abstractos en C
+Data structure development using the C language. Developed a List, Stack, Queue and Binary Search Three.
